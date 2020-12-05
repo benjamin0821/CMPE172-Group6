@@ -12,3 +12,6 @@ Our application is a webpage which shows the items stored in an inventory.
 
 
 Demo Screenshots are uploaded in the 'screenshots' folder above.
+
+
+
