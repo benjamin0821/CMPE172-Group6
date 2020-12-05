@@ -11,7 +11,7 @@ Project Introduction:
 Our application is a webpage which shows the items stored in an inventory. 
 
 
-Demo Screenshots are uploaded in the 'screenshots' folder above.
+Demo Screenshots and related diagrams are uploaded in the 'screenshots' folder above.
 
 
 
